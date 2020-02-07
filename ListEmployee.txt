@@ -1,0 +1,5 @@
+Maria,maria@htomail.com,3200.00
+Alex,alex@hotmail.com,1900.00
+Marco,marco@hotmail.com,1700.00
+bob esponja,bob@gmail.com,3500.00
+nathy,nathy@gmail.com,2800.00
